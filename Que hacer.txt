@@ -5,9 +5,11 @@ Registros de pruebas.
   1.3-Ambos pueden crear issues
   1.4-Ambos pueden crear pull requests
   1.5-El creador del repositorio puede hacer merge
+  1.6-Se puede hacer un fork al repositorio
 2-No colaboradores
   2.1-No se puede editar el mismo archivo los 2 a la vez
   2.2-El no contribuidor no puede crear ramas
   2.3-Ambos pueden crear issues
   2.4-Se pueden crear pull requests pero se pide permiso al creador del repositorio
   2.5-El creador del repositorio puede hacer merge
+  2.6-Se puede hacer un fork al repositorio
