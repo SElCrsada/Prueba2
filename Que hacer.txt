@@ -5,3 +5,4 @@ Registros de pruebas.
 2-No colaboradores
   2.1-No se puede editar el mismo archivo los 2 a la vez
   2.2-El no contribuidor no puede crear ramas
+  2.3
