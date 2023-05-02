@@ -1,3 +1,5 @@
 Registros de pruebas.
 1-Colaboradores
-1.1-Ambos pueden ver y editar en tiempo real
+  1.1-Ambos pueden ver y editar en tiempo real
+2-No colaboradores
+  2.1-No se puede editar el mismo archivo los 2 a la vez
