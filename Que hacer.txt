@@ -1,7 +1,7 @@
 Registros de pruebas.
 1-Colaboradores
   1.1-Ambos pueden ver y editar en tiempo real
+  1.2-Ambos pueden crear ramas
 2-No colaboradores
   2.1-No se puede editar el mismo archivo los 2 a la vez
-  2.2-CambioPrueba
-  2.3-El no contribuidor no puede crear ramas
+  2.2-El no contribuidor no puede crear ramas
